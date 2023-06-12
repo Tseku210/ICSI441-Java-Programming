@@ -1,0 +1,8 @@
+John Smith,The Catcher in the Rye,224,12.99
+Jane Doe,Pride and Prejudice,432,9.99
+David Johnson,To Kill a Mockingbird,281,14.50
+JK Rowling,Deathly Hallows,140,13.50
+JK Rowling,Chamber of Secrets,120,12.50
+Emma Thompson,1984,328,11.75
+Michael Brown,The Great Gatsby,392,13.25
+Sophia Wilson,Brave New World,325,12.49
